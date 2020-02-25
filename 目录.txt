@@ -33,6 +33,7 @@ Tree:
     637. Average of Levels in Binary Tree (easy)
     513. Find Bottom Left Tree Value (medium)
     669. Trim a Binary Search Tree (easy)
+    230. Kth Smallest Element in a BST (medium)
 
 HashMap：
     1. Two Sum (easy)
