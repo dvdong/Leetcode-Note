@@ -40,6 +40,8 @@ Tree:
     108. Convert Sorted Array to Binary Search Tree (easy)
     109. Convert Sorted List to Binary Search Tree (medium)
     653. Two Sum IV - Input is a BST
+    530. Minimum Absolute Difference in BST (easy)
+    501. Find Mode in Binary Search Tree (easy)
 
 HashMap：
     1. Two Sum (easy)
