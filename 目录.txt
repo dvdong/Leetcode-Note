@@ -49,6 +49,8 @@ Tree:
 Stack and Queue:
     232. Implement Queue using Stacks (easy)
     225. Implement Stack using Queues (easy)
+    155. Min Stack (easy)
+    239. Sliding Window Maximum (hard)
 
 HashMap:
     1. Two Sum (easy)
@@ -61,3 +63,4 @@ DP:
   
 Double Pointer:
     167. Two Sum II - Input array is sorted (easy)
+    10.01. Sorted Merge (easy)
