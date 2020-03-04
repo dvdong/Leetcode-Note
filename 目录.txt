@@ -52,6 +52,7 @@ Stack and Queue:
     155. Min Stack (easy)
     239. Sliding Window Maximum (hard)
     20. Valid Parentheses (easy)
+  ⭐32. Longest Valid Parentheses (hard) [Stack and DP]
 
 HashMap:
     1. Two Sum (easy)
@@ -65,6 +66,7 @@ Search:
 
 DP:
   ⭐337. House Robber III (midium) [Tree and DP]
+  ⭐32. Longest Valid Parentheses (hard) [Stack and DP]
   
 Double Pointer:
     167. Two Sum II - Input array is sorted (easy)
