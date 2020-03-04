@@ -51,12 +51,17 @@ Stack and Queue:
     225. Implement Stack using Queues (easy)
     155. Min Stack (easy)
     239. Sliding Window Maximum (hard)
+    20. Valid Parentheses (easy)
 
 HashMap:
     1. Two Sum (easy)
   ⭐3. Longest Substring Without Repeating Characters (medium)
 
 Algorithm
+
+Search:
+  BFS:
+    994. Rotting Oranges (easy)
 
 DP:
   ⭐337. House Robber III (midium) [Tree and DP]
