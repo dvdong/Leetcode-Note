@@ -65,6 +65,8 @@ Algorithm
 Search:
   BFS:
     994. Rotting Oranges (easy)
+  Binary:
+  ⭐33. Search in Rotated Sorted Array (medium)
 
 DP:
   ⭐337. House Robber III (midium) [Tree and DP]
@@ -74,3 +76,4 @@ DP:
 Double Pointer:
     167. Two Sum II - Input array is sorted (easy)
     10.01. Sorted Merge (easy)
+  ⭐面试题57 - II. 和为s的连续正数序列 (easy)
