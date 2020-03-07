@@ -55,6 +55,7 @@ Stack and Queue:
   ⭐32. Longest Valid Parentheses (hard) [Stack and DP]
     739. Daily Temperatures (medium) [Stack and DP]
     503. Next Greater Element II (medium)
+    面试题59 - II. 队列的最大值(Max Queue)(medium)
 
 HashMap:
     1. Two Sum (easy)
@@ -65,6 +66,7 @@ Algorithm
 Search:
   BFS:
     994. Rotting Oranges (easy)
+    1091. Shortest Path in Binary Matrix (medium)
   Binary:
   ⭐33. Search in Rotated Sorted Array (medium)
 
