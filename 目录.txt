@@ -67,13 +67,16 @@ Search:
   BFS:
     994. Rotting Oranges (easy)
     1091. Shortest Path in Binary Matrix (medium)
+    279. Perfect Squares (medium)
   Binary:
   ⭐33. Search in Rotated Sorted Array (medium)
 
 DP:
   ⭐337. House Robber III (midium) [Tree and DP]
   ⭐32. Longest Valid Parentheses (hard) [Stack and DP]
-    739. Daily Temperatures (medium) [Stack and DP]
+    739. Daily Temperatures (medium) [Stack and DP] 
+    322. Coin Change (medium) [DFS and DP]
+    279. Perfect Squares (medium) [BFS and DP]
   
 Double Pointer:
     167. Two Sum II - Input array is sorted (easy)
