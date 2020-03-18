@@ -60,6 +60,15 @@ Stack and Queue:
 HashMap:
     1. Two Sum (easy)
   ⭐3. Longest Substring Without Repeating Characters (medium)
+    1160. Find Words That Can Be Formed by Characters (easy)
+  
+Array:
+    1013. Partition Array Into Three Parts With Equal Sum (easy)
+    169. Majority Element (easy)
+    
+String:
+    面试题 01.06. Compress String LCCI (easy)
+    1071. Greatest Common Divisor of Strings (easy)
 
 Algorithm
 
@@ -68,8 +77,15 @@ Search:
     994. Rotting Oranges (easy)
     1091. Shortest Path in Binary Matrix (medium)
     279. Perfect Squares (medium)
+  DFS:
+    200. Number of Islands (medium)
+    695. Max Area of Island (medium)
   Binary:
   ⭐33. Search in Rotated Sorted Array (medium)
+  ⭐300. Longest Increasing Subsequence (medium)
+  
+Sort:
+    56. Merge Intervals (medium)
 
 DP:
   ⭐337. House Robber III (midium) [Tree and DP]
@@ -78,8 +94,12 @@ DP:
   ⭐322. Coin Change (medium) [DFS and DP]
     279. Perfect Squares (medium) [BFS and DP]
     121. Best Time to Buy and Sell Stock (easy)
+    300. Longest Increasing Subsequence (medium)
   
 Double Pointer:
     167. Two Sum II - Input array is sorted (easy)
     10.01. Sorted Merge (easy)
   ⭐面试题57 - II. 和为s的连续正数序列 (easy)
+  
+Math:
+    836. Rectangle Overlap (easy)
