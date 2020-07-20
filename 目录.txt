@@ -8,12 +8,21 @@ LinkedList:
   ⭐92. Reverse Linked List II (medium)
     21. Merge Two Sorted Lists (easy)
     83. Remove Duplicates from Sorted List (easy)
+    82. Remove Duplicates from Sorted List II (medium)
     19. Remove Nth Node From End of List (medium)
     24. Swap Nodes in Pairs (medium)
     234. Palindrome Linked List (easy)
     141. Linked List Cycle (easy)
+    142. Linked List Cycle II (medium)
   ⭐725. Split Linked List in Parts (easy)
   ⭐328. Odd Even Linked List (medium)
+    86. Partition List (medium)
+    138. Copy List with Random Pointer (medium)
+    203. Remove Linked List Elements (easy)
+    237. Delete Node in a Linked List (easy)
+    25. Reverse Nodes in k-Group (hard)
+    23. Merge k Sorted Lists (hard)
+    面试题 02.01. Remove Duplicate Node (easy)
 
 Tree:
     104. Maximum Depth of Binary Tree (easy)
@@ -43,8 +52,16 @@ Tree:
     530. Minimum Absolute Difference in BST (easy)
     501. Find Mode in Binary Search Tree (easy)
     94/144/145. Binary Tree Inorder/Preorder/⭐Postorder Traversal
+    102. Binary Tree Level Order Traversal
+    107. Binary Tree Level Order Traversal II
     208. Implement Trie (Prefix Tree) (medium)
     677. Map Sum Pairs (medium)
+    199. Binary Tree Right Side View (medium)
+    98. Validate Binary Search Tree (medium)
+    105. Construct Binary Tree from Preorder and Inorder Traversal (medium)
+    1028. Recover a Tree From Preorder Traversal (hard)
+    124. Binary Tree Maximum Path Sum (hard)
+    297. Serialize and Deserialize Binary Tree (hard)
 
 Stack and Queue:
     232. Implement Queue using Stacks (easy)
@@ -56,19 +73,57 @@ Stack and Queue:
     739. Daily Temperatures (medium) [Stack and DP]
     503. Next Greater Element II (medium)
     面试题59 - II. 队列的最大值(Max Queue)(medium)
+  ⭐907. Sum of Subarray Minimums (medium) [Stack and Array]
+    394. Decode String (medium)
+    84. Largest Rectangle in Histogram (hard)
 
 HashMap:
     1. Two Sum (easy)
   ⭐3. Longest Substring Without Repeating Characters (medium)
     1160. Find Words That Can Be Formed by Characters (easy)
+    409. Longest Palindrome (easy)
+    560. Subarray Sum Equals K (medium)
+    1248. Count Number of Nice Subarrays (medium)
+    1371. Find the Longest Substring Containing Vowels in Even Counts (medium)
+    974. Subarray Sums Divisible by K (medium)
+    202. 快乐数 (easy)
+    128. Longest Consecutive Sequence (hard)
+    41. First Missing Positive (hard)
   
 Array:
     1013. Partition Array Into Three Parts With Equal Sum (easy)
     169. Majority Element (easy)
+    945. Minimum Increment to Make Array Unique (easy)
+  ⭐907. Sum of Subarray Minimums (medium) [Stack and Array]
+    999. 可以被一步捕获的棋子数 (easy)
+    914. 卡牌分组 (easy)
+    912. Sort an Array (medium)
+    289. Game of Life (medium)
+    面试题 01.07. Rotate Matrix (medium)
+    55. Jump Game (medium)
+    45. Jump Game II (hard)
+    238. Product of Array Except Self (medium)
+    54. Spiral Matrix (medium)
     
 String:
     面试题 01.06. Compress String LCCI (easy)
     1071. Greatest Common Divisor of Strings (easy)
+    820. Short Encoding of Words (medium)
+    1111. Maximum Nesting Depth of Two Valid Parentheses Strings (medium)
+    8. String to Integer (atoi) (medium)
+    151. Reverse Words in a String (medium)
+    5. Longest Palindromic Substring (medium)
+    242. Valid Anagram (easy)
+    14. Longest Common Prefix (easy)
+    67. Add Binary (easy)
+    面试题 16.18. 模式匹配 (medium)
+    
+Graph: 
+    207. Course Schedule (medium)
+    210. Course Schedule II (medium)
+    
+UnionFind:
+    990. Satisfiability of Equality Equations (medium)
 
 Algorithm
 
@@ -77,29 +132,102 @@ Search:
     994. Rotting Oranges (easy)
     1091. Shortest Path in Binary Matrix (medium)
     279. Perfect Squares (medium)
+    1162. As Far from Land as Possible (medium)
+    127. Word Ladder (medium)
+    542. 01 Matrix (medium)
   DFS:
     200. Number of Islands (medium)
     695. Max Area of Island (medium)
-  Binary:
+    剑指Offer13. 机器人的运动范围 (medium)
+    22. Generate Parentheses (medium) [DFS and Backtracking]
+
+Binary Search:
+    35. Search Insert Position (easy)
   ⭐33. Search in Rotated Sorted Array (medium)
   ⭐300. Longest Increasing Subsequence (medium)
-  
+    1095. Find in Mountain Array (hard)
+    287. Find the Duplicate Number (medium)
+    4. Median of Two Sorted Arrays (hard)
+    475. 供暖器 (easy)
+    1300. 转变数组后最接近目标值的数组和 (medium)
+    378. Kth Smallest Element in a Sorted Matrix (medium)
+
 Sort:
     56. Merge Intervals (medium)
+    面试题40. 最小的k个数 (easy)
+    215. Kth Largest Element in an Array (medium)
 
 DP:
-  ⭐337. House Robber III (midium) [Tree and DP]
+    198. House Robber (easy)
+    213. House Robber II (medium)
+  ⭐337. House Robber III (medium) [Tree and DP]
   ⭐32. Longest Valid Parentheses (hard) [Stack and DP]
     739. Daily Temperatures (medium) [Stack and DP] 
+    70. Climbing Stairs (easy)
   ⭐322. Coin Change (medium) [DFS and DP]
     279. Perfect Squares (medium) [BFS and DP]
     121. Best Time to Buy and Sell Stock (easy)
+    122. Best Time to Buy and Sell Stock II (easy)
+    188. Best Time to Buy and Sell Stock IV (hard)
     300. Longest Increasing Subsequence (medium)
+    72. Edit Distance (hard)
+    面试题 08.11. 硬币 (medium)
+    518. Coin Change 2 (medium)
+    62. Unique Paths (medium)
+    63. Unique Paths II (medium)
+    120. Triangle (medium)
+    53. Maximum Subarray (easy)
+    152. Maximum Product Subarray （medium)
+    983. 最低票价 (medium)
+    221. Maximal Square (medium)
+  ⭐887. 鸡蛋掉落(hard)
+    837. 新21点 (medium)
+    剑指 Offer 46. 把数字翻译成字符串(medium)
+    1014. 最佳观光组合 (medium)
+    10. Regular Expression Matching (hard)
+    44. Wildcard Matching (hard)
+    139. Word Break (medium)
+    718. Maximum Length of Repeated Subarray (medium)
   
 Double Pointer:
     167. Two Sum II - Input array is sorted (easy)
+    15. 3Sum (medium)
     10.01. Sorted Merge (easy)
   ⭐面试题57 - II. 和为s的连续正数序列 (easy)
-  
+    42. Trapping Rain Water (hard) [Double Pointer and Stack]
+    11. Container With Most Water (medium)
+    125. Valid Palindrome (easy)
+    680. Valid Palindrome II (easy)
+    76. Minimum Window Substring (hard)
+    209. Minimum Size Subarray Sum (medium)
+
+Divede and Conquer:
+    面试题51. 数组中的逆序对 (hard)
+    
+Backtracking:
+    46. Permutations (medium)
+    
+Greedy:
+    860. 柠檬水找零 (easy)
+    
+Bit Manipulation:
+    389. Find the Difference (easy)
+    136. Single Number (easy)
+    面试题56 - I. 数组中数字出现的次数 (medium)
+    
+Design:
+    460. LFU Cache (hard)
+
 Math:
     836. Rectangle Overlap (easy)
+  ⭐365. Water and Jug Problem (medium)
+    892. 三维形体的表面积 (easy)
+    50. Pow(x, n) (medium)
+    69. Sqrt(x) (easy)
+    面试题64. 求1+2+…+n (medium)
+    9. Palindrome Number (easy)
+    
+Design
+
+    146. LRU缓存机制 (medium)
+    460. LFU缓存 (hard)
