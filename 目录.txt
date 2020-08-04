@@ -62,6 +62,7 @@ Tree:
     1028. Recover a Tree From Preorder Traversal (hard)
     124. Binary Tree Maximum Path Sum (hard)
     297. Serialize and Deserialize Binary Tree (hard)
+    114. Flatten Binary Tree to Linked List (medium)
 
 Stack and Queue:
     232. Implement Queue using Stacks (easy)
@@ -151,6 +152,7 @@ Binary Search:
     475. 供暖器 (easy)
     1300. 转变数组后最接近目标值的数组和 (medium)
     378. Kth Smallest Element in a Sorted Matrix (medium)
+    面试题 08.03. 魔术索引 (easy)
 
 Sort:
     56. Merge Intervals (medium)
@@ -188,6 +190,7 @@ DP:
     44. Wildcard Matching (hard)
     139. Word Break (medium)
     718. Maximum Length of Repeated Subarray (medium)
+    343. Integer Break (medium)
   
 Double Pointer:
     167. Two Sum II - Input array is sorted (easy)
